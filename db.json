@@ -44,28 +44,28 @@
     {
         "name": "Такуан спайс",
         "img": "/img/takuan-spajs.jpg",
-        "alt": "КТакуан спайс",
+        "alt": "Такуан спайс",
         "weight": 130,
         "price": 129
     },
     {
-        "name": "Каппа маки",
+        "name": "Запечённый Эби спайс",
         "img": "/img/kappa-maki.jpg",
-        "alt": "Каппа маки",
-        "weight": 185,
+        "alt": "Запечённый Эби спайс",
+        "weight": 260,
         "price": 399
     },
     {
         "name": "Эби",
         "img": "/img/ehbi.jpg",
-        "alt": "КЭби",
+        "alt": "Эби",
         "weight": 35,
         "price": 119
     },
     {
-        "name": "syake",
+        "name": "Сяке",
         "img": "/img/syake.jpg",
-        "alt": "syake",
+        "alt": "Сяке",
         "weight": 35,
         "price": 129
     },
