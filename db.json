@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Филадельфия с огурцом",
+        "img": "/img/filadelfiya-s-ogurcom.jpg",
+        "alt": "Филадельфия с огурцом",
+        "weight": 270,
+        "price": 599
+    },
+    {
+        "name": "Калифорния",
+        "img": "/img/kaliforniya.jpg",
+        "alt": "Калифорния",
+        "weight": 210,
+        "price": 369
+    },
+    {
+        "name": "Сяке маки",
+        "img": "/img/syake-maki.jpg",
+        "alt": "Сяке маки",
+        "weight": 130,
+        "price": 289
+    },
+    {
+        "name": "Каппа маки",
+        "img": "/img/kappa-maki.jpg",
+        "alt": "Каппа маки",
+        "weight": 130,
+        "price": 129
+    },
+    {
+        "name": "Цезарь с креветкой",
+        "img": "/img/cezar-s-krevetkoj.jpg",
+        "alt": "Цезарь с креветкой",
+        "weight": 190,
+        "price": 299
+    },
+    {
+        "name": "Цезарь",
+        "img": "/img/cezar.jpg",
+        "alt": "Цезарь",
+        "weight": 210,
+        "price": 199
+    },
+    {
+        "name": "Такуан спайс",
+        "img": "/img/takuan-spajs.jpg",
+        "alt": "КТакуан спайс",
+        "weight": 130,
+        "price": 129
+    },
+    {
+        "name": "Каппа маки",
+        "img": "/img/kappa-maki.jpg",
+        "alt": "Каппа маки",
+        "weight": 185,
+        "price": 399
+    },
+    {
+        "name": "Эби",
+        "img": "/img/ehbi.jpg",
+        "alt": "КЭби",
+        "weight": 35,
+        "price": 119
+    },
+    {
+        "name": "syake",
+        "img": "/img/syake.jpg",
+        "alt": "syake",
+        "weight": 35,
+        "price": 129
+    },
+    {
+        "name": "Запечённый с креветкой",
+        "img": "/img/zapechyonnyj-s-krevetkoj.jpg",
+        "alt": "Запечённый с креветкой",
+        "weight": 215,
+        "price": 269
+    },
+    {
+        "name": "Сяке Терияки",
+        "img": "/img/syake-teriyaki.jpg",
+        "alt": "Сяке Терияки",
+        "weight": 280,
+        "price": 459
+    }
+]
